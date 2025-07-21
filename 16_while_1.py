@@ -1,6 +1,5 @@
 '''
     write a program to findout whether given number is perfect number or not 
-
 '''
 num = int(input("Enter number")) #6
 diviser = 1
