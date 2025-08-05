@@ -5,7 +5,6 @@ def getTotalSeconds(hours,minutes=0,seconds=0):
     totalSeconds += minutes * 60
     totalSeconds += seconds
     return totalSeconds
-
 h = 10
 m = 30 
 s = 15
