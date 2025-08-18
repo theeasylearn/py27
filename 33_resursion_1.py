@@ -1,5 +1,4 @@
 # write a program to convert decimal number into binary 
-
 def toBinary(number):
     if number>0:
         reminder = number % 2
