@@ -1,6 +1,6 @@
 #write a program to calculate & display simple interest of given amount,rate, year 
 #next step 
-# in case of of error program should recover from error and resume it work (but how it is be done?)
+# in case of run time error in program, program should recover from error and resume it's work (but how it is be done?)
 while True: #this loop will run foreever 
     try:
         amount = int(input("Enter Amount"))
